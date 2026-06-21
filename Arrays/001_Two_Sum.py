@@ -1,6 +1,10 @@
-Question : Two Sum 
-Topics : Arrays, Hash Map
+Problem: Two Sum
+Topic: Arrays, Hash Map
 Difficulty: Easy
+
+Time Complexity: O(n²)
+Space Complexity: O(1)
+
 Solution:
 
 class Solution:
