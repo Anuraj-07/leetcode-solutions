@@ -45,3 +45,6 @@ leetcode-solutions/
 ## Note
 
 This repository is part of my continuous learning journey. I will regularly update it as I solve more problems.
+
+THANKS
+Keep Learning! :)
