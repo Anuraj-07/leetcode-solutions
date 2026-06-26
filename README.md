@@ -3,6 +3,7 @@
 Welcome to my LeetCode problem-solving repository.
 
 This repository contains my solutions to LeetCode problems as I strengthen my Data Structures & Algorithms (DSA) fundamentals.
+This repo contain my solutions which i solved while learning coding so it doesn't contain cleaner codes, It contains raw codes i write while learning.
 
 ## Goals
 
